@@ -1,0 +1,11 @@
+1. Size of int = 4 bytes (most compilers)
+2. Array index starts from 0
+3. & gives address of variable
+4. * is value at address
+5. strlen() does not count '\0'
+6. if(0) → false
+7. if(non-zero) → true
+8. for(;;) is infinite loop
+9. Structure uses dot (.) operator
+10. Call by value does not change original value
+11.
