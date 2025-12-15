@@ -1,0 +1,8 @@
+Variable: Used to store data
+Data Types: int, float, char, double
+Loop: Used to repeat code
+Array: Collection of same data type
+Function: Block of code
+Pointer: Stores address of variable
+String: Character array
+Structure: Collection of different data types
