@@ -1,0 +1,7 @@
+1. Hello World
+2. Even Odd
+3. Sum of numbers
+4. Array sum
+5. String length
+6. Function with return
+7.
